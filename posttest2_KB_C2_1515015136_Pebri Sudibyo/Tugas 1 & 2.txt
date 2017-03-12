@@ -1,0 +1,27 @@
+
+1.(SATU)
+
+a.dian adalah orang
+b.atoz adalah mobil
+c.dian suka atoz
+d.atos dijual
+e.X dapat membeli Y jika.
+	X adalah orang,
+	Y adalah mobil,
+	X suka Y,
+	Y dijual.
+f.suka=Apa
+
+
+2.(DUA)
+
+a.Hoby(ricky,catur).
+b.Orang(embang,pemalas).
+c.seorang(yusida,vegetarian).
+d.pandai(kusdiar,gitar).
+e.milik(mobil,sadek),warna(mobil,merah),merek(mobil,BMW).
+f.pemain(awan,piano), berasal(awan,pontianak), suku(awan,jawa).
+g.Dikatakan(orang,baik):- sifat(orang,penyayang), sifat(orang,dermawan).
+h.Dikatakan(orang,pintar):-dapat(matematika,tinggi); dapat(ipa,tinggi); dapat(ips,tinggi).
+i.setiap(orang,mati).
+
